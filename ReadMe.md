@@ -1,0 +1,5 @@
+-Basic implementation of a database in java.  
+-A menu is available at console after execution.  
+-You can insert-edit or remove types and records of that type.  
+-You can also list all types,records and search for a  specific record by key.  
+-The system is designed with page structure of database.  
